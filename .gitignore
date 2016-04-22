@@ -14,7 +14,7 @@ privacy.py
 *.dat
 
 # Data-raw generated
-*.csv
+src/*.csv
 
 # C extensions
 *.so
